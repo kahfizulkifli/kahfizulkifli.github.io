@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kahfi Soobhan Zulkifli"
 title_separator          : "-"
 name                     : &name "Kahfi Soobhan Zulkifli"
-description              : &description "Future expert in computer systems"
+description              : &description "Ph.D. student at University of Virginia"
 url                      : https://kahfizulkifli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kahfi Soobhan Zulkifli"
   avatar           : "IMG_2893.JPG"
-  bio              : "Future expert in computer systems"
+  bio              : "Incoming Ph.D. student at University of Virginia"
   location         : "Jakarta, Indonesia"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "kahfizulk@gmail.com"
+  email            :  "kwf3wv@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

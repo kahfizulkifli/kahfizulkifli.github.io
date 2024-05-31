@@ -10,6 +10,6 @@ citation: 'Daniar H. Kurniawan, Ruipu Wang, <b>Kahfi S. Zulkifli</b>, Fandi A. W
 ---
 <!-- This paper is about designing caching systems for embedding tables in deep recommendation systems. -->
 
-[Download paper here](http://academicpages.github.io/files/asplos23-EVStore.pdf)
+[Download paper here](http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->

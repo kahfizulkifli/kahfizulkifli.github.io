@@ -1,0 +1,2 @@
+pub_date,authors,title,venue,url_slug,paper_url
+2023-03-25,"Daniar H. Kurniawan, Ruipu Wang, Kahfi S. Zulkifli, Fandi A. Wiranata, John Bent, Ymir Vigfusson, and Haryadi S. Gunawi","EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems","28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems",evstore,http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf

@@ -8,11 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Kahfi, and I am currently collaborating with Prof. Haryadi Gunawi on the intersection of machine learning and systems. 
+<style>
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+</style>
 
-I'm currently pursuing a Bachelor's degree in Computer Science at Institut Teknologi Bandung, Indonesia's top engineering school.
+Hi! My name is Kahfi, and I am currently an incoming Ph.D. student at the University of Virginia. I received my bachelor degree in Computer Science from Institut Teknologi Bandung (ITB), Indonesia.  
 
-I have a firm background in storage systems and machine learning, with over 2 years of experience in systems research. I envision myself to become an expert in computer systems. 
+My research focuses on Computer Systems, with an emphasis on **Storage Systems, Distributed Systems, and Machine Learning Systems**. I have 3 years of experience in conducting systems research with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on the intersection between machine learning and systems.
 
-<span style="color:red">I'm currently applying to the Computer Science Ph.D. program. My main research interests are in storage, machine learning, and distributed systems. I aim to optimize these systems due to the higher increasing demand for space and speed. I'm open to any area of systems research.</span>
+## News
+* Apr. 2024: Graduated from Institut Teknologi Bandung.
+* Feb. 2024: Accepted PhD offer at University of Virginia.
+* Dec. 2023: I successfully defended my Bachelor's thesis!
 
+## Publications
+
+| **ASPLOS '23** | **[EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems](https://dl.acm.org/doi/10.1145/3575693.3575718)** <br> The 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, March 25–29, 2023, Vancouver, BC, Canada <br><span style="font-size:0.8em;">[Acceptance Rate: 26.7%, 72 out of 270]</span> *<br> Daniar H. Kurniawan, Ruipu Wang, <b>Kahfi S. Zulkifli</b>, Fandi A. Wiranata, John Bent, Ymir Vigfusson, and Haryadi S. Gunawi.* <br> [[paper]](http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf) [[slides]](https://ucare.cs.uchicago.edu/slides/asplos23-EVstore.pptx) [[code]](https://github.com/ucare-uchicago/ev-store-dlrm)
+
+
+<!-- **[ASPLOS'23] EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems**
+<br> The 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, March 25–29, 2023, Vancouver, BC, Canada 
+<br><span style="font-size:0.8em;">[Acceptance Rate: 26.7%, 72 out of 270]</span>
+*<br> Daniar H. Kurniawan, Ruipu Wang, <b>Kahfi S. Zulkifli</b>, Fandi A. Wiranata, John Bent, Ymir Vigfusson, and Haryadi S. Gunawi.*
+<br> [[paper]](http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf) [[slides]](https://ucare.cs.uchicago.edu/slides/asplos23-EVstore.pptx) [[code]](https://github.com/ucare-uchicago/ev-store-dlrm) -->

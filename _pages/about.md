@@ -43,3 +43,7 @@ My research focuses on Computer Systems, with an emphasis on **Storage Systems, 
 <br><span style="font-size:0.8em;">[Acceptance Rate: 26.7%, 72 out of 270]</span>
 *<br> Daniar H. Kurniawan, Ruipu Wang, <b>Kahfi S. Zulkifli</b>, Fandi A. Wiranata, John Bent, Ymir Vigfusson, and Haryadi S. Gunawi.*
 <br> [[paper]](http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf) [[slides]](https://ucare.cs.uchicago.edu/slides/asplos23-EVstore.pptx) [[code]](https://github.com/ucare-uchicago/ev-store-dlrm) -->
+
+## Helpful resources
+
+* Here is a [youtube channel](https://www.youtube.com/channel/UCo40vspj_ZYBW-5yfaFy52g) of one of my previous research collaborators, [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/). He has videos on debunking myths about PhD in Computer Science, but it is in the Indonesian language.

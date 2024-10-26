@@ -23,9 +23,9 @@ a:active {
 }
 </style>
 
-Hi! My name is Kahfi, and I am currently an incoming Ph.D. student at the University of Virginia, advised by [Prof. Chang Lou](https://changlousys.github.io/). I received my bachelor degree in Computer Science from Institut Teknologi Bandung (ITB), Indonesia.  
+Hi! My name is Kahfi, and I am currently a first-year Ph.D. student at the University of Virginia, advised by [Prof. Chang Lou](https://changlousys.github.io/). I received my bachelor degree in Computer Science from Institut Teknologi Bandung (ITB), Indonesia.  
 
-My research focuses on Computer Systems, with an emphasis on **Storage Systems, Distributed Systems, and Machine Learning Systems**. I have 3 years of experience in conducting systems research with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on the intersection between machine learning and systems.
+I work on Computer Systems, with an emphasis on **Systems Verification and Reliability**. I have 3 years of experience in conducting research with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on the intersection between machine learning and systems.
 
 ## News
 * Aug. 2024: Arrived at Charlottesville to start PhD

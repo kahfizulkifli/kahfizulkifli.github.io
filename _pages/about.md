@@ -46,5 +46,5 @@ I work on Computer Systems, with an emphasis on **Systems Verification and Relia
 
 ## Helpful resources
 
-* Here is a [youtube channel](https://www.youtube.com/channel/UCo40vspj_ZYBW-5yfaFy52g) of one of my previous research collaborators, [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/). He has videos on debunking myths about PhD in Computer Science, but it is in the Indonesian language.
+* Here is a [youtube channel](https://www.youtube.com/channel/UCo40vspj_ZYBW-5yfaFy52g) of one of my previous research collaborators, [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/). He has videos on computer science research and education.
 * [Graduate School: Keys To Success](https://youtu.be/fqPSnjewkuA?feature=shared) by [Prof. Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/).

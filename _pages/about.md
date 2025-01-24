@@ -28,10 +28,11 @@ Hi! My name is Kahfi, and I am currently a first-year Ph.D. student at the Unive
 I work on Computer Systems, with an emphasis on **Systems Verification and Reliability**. I have 3 years of experience in conducting research with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on the intersection between machine learning and systems.
 
 ## News
-* Aug. 2024: Arrived at Charlottesville to start PhD
-* Apr. 2024: Graduated from Institut Teknologi Bandung.
-* Feb. 2024: Accepted PhD offer at University of Virginia.
-* Dec. 2023: I successfully defended my Bachelor's thesis!
+* 2025/1: Paper on reducing tail latencies in SSDs with machine learning-powered I/O admission policy just got accepted at [EuroSys '25](https://2025.eurosys.org/). Thanks Dan, Rani, Peiran, Ray, and Prof. Har.
+* 2024/8: Arrived at Charlottesville to start PhD
+* 2024/4: Graduated from Institut Teknologi Bandung.
+* 2024/2: Accepted PhD offer at University of Virginia.
+* 2023/12: I successfully defended my Bachelor's thesis!
 
 ## Publications
 

@@ -28,7 +28,7 @@ Hi! My name is Kahfi, and I am currently a first-year Ph.D. student at the Unive
 I work on Computer Systems, with an emphasis on **Systems Verification and Reliability**. I have 3 years of experience in conducting research with [Prof. Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/) on the intersection between machine learning and systems.
 
 ## News
-* 2025/2: Our workshop paper on detecting silent errors in Large ML Models with Formal Verification has been accepted by [EuroMLSys ‘25](https://euromlsys.eu/) (co-located with EuroSys 2025). Credits to Chang, Wenbo, and also our AWS researchers for their insights.
+* 2025/2: Our workshop paper on detecting silent errors in Large ML Models with Formal Verification has been accepted by [EuroMLSys ‘25](https://euromlsys.eu/) (co-located with EuroSys 2025). Credits to Chang, Wenbo, and also AWS researchers for their insights.
 * 2025/1: Paper on reducing tail latencies in SSDs with machine learning-powered I/O admission policy just got accepted at [EuroSys '25](https://2025.eurosys.org/). Thanks Dan, Rani, Peiran, Ray, and Prof. Har.
 * 2024/8: Arrived at Charlottesville to start PhD
 * 2024/4: Graduated from Institut Teknologi Bandung.

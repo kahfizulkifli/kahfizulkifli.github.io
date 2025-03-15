@@ -37,9 +37,9 @@ I work on Computer Systems, with an emphasis on **Systems Verification and Relia
 
 ## Publications
 
-| **EuroMLSys '25** | **[Verifying Semantic Equivalence of Large Models with Equality Saturation]()** *<br> <b>Kahfi S. Zulkifli</b>\*, Wenbo Qian\* (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou* <br> 
+| **EuroMLSys '25** | **[Verifying Semantic Equivalence of Large Models with Equality Saturation](http://kahfizulkifli.github.io/files/euromlsys25-final15.pdf)** *<br> <b>Kahfi S. Zulkifli</b>\*, Wenbo Qian\* (co-first author), Shaowei Zhu, Yuan Zhou, Zhen Zhang, Chang Lou* <br> 
 | **EuroSys '25** | **[Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline]()** *<br> Daniar H. Kurniawan, Rani Ayu Putri, Peiran Qin, <b>Kahfi S. Zulkifli</b>, Ray A. O. Sinurat, Janki Bhimani, Sandeep Madireddy, Achmad Imam Kistijantoro, Haryadi Gunawi* <br> 
-| **ASPLOS '23** | **[EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems](https://dl.acm.org/doi/10.1145/3575693.3575718)** *<br> Daniar H. Kurniawan, Ruipu Wang, <b>Kahfi S. Zulkifli</b>, Fandi A. Wiranata, John Bent, Ymir Vigfusson, and Haryadi S. Gunawi.* <br> [[paper]](http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf) [[slides]](https://ucare.cs.uchicago.edu/slides/asplos23-EVstore.pptx) [[code]](https://github.com/ucare-uchicago/ev-store-dlrm)
+| **ASPLOS '23** | **[EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems](http://kahfizulkifli.github.io/files/asplos23-EVStore.pdf)** *<br> Daniar H. Kurniawan, Ruipu Wang, <b>Kahfi S. Zulkifli</b>, Fandi A. Wiranata, John Bent, Ymir Vigfusson, and Haryadi S. Gunawi.* <br> [[slides]](https://ucare.cs.uchicago.edu/slides/asplos23-EVstore.pptx) [[code]](https://github.com/ucare-uchicago/ev-store-dlrm)
 
 <!-- **[ASPLOS'23] EVStore: Storage and Caching Capabilities for Scaling Embedding Tables in Deep Recommendation Systems**
 <br> The 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, March 25–29, 2023, Vancouver, BC, Canada 
